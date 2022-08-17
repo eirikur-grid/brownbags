@@ -1,0 +1,10 @@
+AUTHOR=1
+BEFORE=2
+AFTER=3
+DATE=4
+QUOTED_TERM=5
+WORD=6
+WS=7
+'author:'=1
+'before:'=2
+'after:'=3
