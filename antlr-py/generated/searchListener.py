@@ -1,4 +1,4 @@
-# Generated from /Users/eirikur/Brownbags/antlr/search.g4 by ANTLR 4.9.2
+# Generated from /Users/eirikur/brownbags/antlr-py/search.g4 by ANTLR 4.10.1
 from antlr4 import *
 if __name__ is not None and "." in __name__:
     from .searchParser import searchParser
